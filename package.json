@@ -27,5 +27,9 @@
     "gulp-tag-version": "^1.2.1",
     "jshint-stylish": "^1.0.1",
     "mocha": "^2.2.1"
+  },
+  "dependencies": {
+    "moment" : "^2.20.1",
+    "moment-timezone" : "^0.5.21"
   }
 }
