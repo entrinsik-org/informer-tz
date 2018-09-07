@@ -1,7 +1,7 @@
 {
-  "name": "informer-tz",
+  "name": "@entrinsik/informer-tz",
   "version": "0.0.0",
-  "description": "A description of your module",
+  "description": "Mimic Informer Timezone Plugin To Treat Imported Dates as UTC/ETC",
   "main": "lib/index.js",
   "directories": {
     "test": "test"
